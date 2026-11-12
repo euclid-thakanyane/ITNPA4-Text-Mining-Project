@@ -1,0 +1,17 @@
+{
+  "model": "Logistic Regression (GridSearchCV-tuned)",
+  "params": "{'clf__C': 10, 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1), 'tfidf__sublinear_tf': True}",
+  "classes": [
+    "ai",
+    "classical"
+  ],
+  "test_metrics": {
+    "test_accuracy": 0.9156,
+    "test_f1_macro": 0.8691,
+    "test_f1_ai": 0.7912,
+    "test_roc_auc": 0.9463
+  },
+  "cv_f1_macro": 0.8584,
+  "trained_on_rows": 1125,
+  "sklearn_version": "1.9.1"
+}

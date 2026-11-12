@@ -1,0 +1,662 @@
+{
+  "corpus_overview": [
+    {
+      "doc_id": 1,
+      "file": "research_corpus/research_1.txt",
+      "title": "Mixed methods research: a research paradigm whose time has come (Johnson & Onwuegbuzie)",
+      "n_chars": 38598,
+      "n_words": 5602,
+      "n_lines": 439
+    },
+    {
+      "doc_id": 2,
+      "file": "research_corpus/research_2.txt",
+      "title": "Now I see it, now I don't: researcher's position and reflexivity in qualitative research (Berger)",
+      "n_chars": 16279,
+      "n_words": 2416,
+      "n_lines": 176
+    },
+    {
+      "doc_id": 3,
+      "file": "research_corpus/research_3.txt",
+      "title": "Developmental research: studies of instructional design and development (Richey, Klein & Nelson)",
+      "n_chars": 26521,
+      "n_words": 3828,
+      "n_lines": 368
+    },
+    {
+      "doc_id": 4,
+      "file": "research_corpus/research_4.txt",
+      "title": "The use of Cronbach's alpha when developing and reporting research instruments in science education (Taber)",
+      "n_chars": 39072,
+      "n_words": 5922,
+      "n_lines": 123
+    },
+    {
+      "doc_id": 5,
+      "file": "research_corpus/research_5.txt",
+      "title": "Denzin's paradigm shift: revisiting triangulation in qualitative research (Fusch, Fusch & Ness)",
+      "n_chars": 27142,
+      "n_words": 4027,
+      "n_lines": 312
+    }
+  ],
+  "top_bigrams": {
+    "mixed_method": 35,
+    "science_education": 29,
+    "internal_consistency": 19,
+    "value_alpha": 17,
+    "design_development": 16,
+    "alpha_value": 16,
+    "methodological_triangulation": 14,
+    "cronbach_alpha": 12,
+    "data_collection": 11,
+    "case_design": 11,
+    "multiple_source": 10,
+    "quantitative_qualitative": 9,
+    "social_change": 9,
+    "qualitative_quantitative": 8,
+    "instructional_design": 8,
+    "development_process": 8,
+    "instructional_technology": 7,
+    "type_developmental": 7,
+    "reliability_internal": 7,
+    "mitigate_bias": 7
+  },
+  "preprocessing": [
+    {
+      "doc_id": 1,
+      "n_words": 5602,
+      "n_tokens_clean": 1104,
+      "n_bigrams": 35,
+      "n_sentences_raw": 152,
+      "n_sentences": 76
+    },
+    {
+      "doc_id": 2,
+      "n_words": 2416,
+      "n_tokens_clean": 892,
+      "n_bigrams": 11,
+      "n_sentences_raw": 59,
+      "n_sentences": 59
+    },
+    {
+      "doc_id": 3,
+      "n_words": 3828,
+      "n_tokens_clean": 1505,
+      "n_bigrams": 55,
+      "n_sentences_raw": 154,
+      "n_sentences": 154
+    },
+    {
+      "doc_id": 4,
+      "n_words": 5922,
+      "n_tokens_clean": 2320,
+      "n_bigrams": 122,
+      "n_sentences_raw": 183,
+      "n_sentences": 183
+    },
+    {
+      "doc_id": 5,
+      "n_words": 4027,
+      "n_tokens_clean": 1488,
+      "n_bigrams": 117,
+      "n_sentences_raw": 154,
+      "n_sentences": 153
+    }
+  ],
+  "q33_summary": "The purposes of this article are to position mixed methods research (mixed research is a synonym) as the natural complement to traditional qualitative and quantitative research, to present pragmatism as offering an attractive philosophical partner for mixed methods research, and to provide a framework for designing and conducting mixed methods research. Both sets of purists view their paradigms as the ideal for research, and, implicitly if not explicitly, they advocate the incompatibility thesis, which posits that qualitative and quantitative research paradigms, including their associated methods, cannot and should not be mixed. Our purpose in writing this article is to present mixed methods research as the third research paradigm in educational research. For example, qualitative researchers should be free to use quantitative methods, and quantitative researchers should be free to use qualitative methods. We contend that epistemological and paradigmatic ecumenicalism is within reach in the research paradigm of mixed methods research. For example, differences in epistemological beliefs (such as a difference in beliefs about the appropriate logic of justification) should not prevent a qualitative researcher from utilizing data collection methods more typically associated with quantitative research, and vice versa.",
+  "q33_selected_idx": [
+    0,
+    15,
+    20,
+    43,
+    45,
+    50
+  ],
+  "q33_compression": {
+    "sentences_in": 76,
+    "sentences_out": 6,
+    "words_in": 2584,
+    "words_out": 188
+  },
+  "q33_top_terms": {
+    "mixed_method": 20,
+    "method": 18,
+    "qualitative": 17,
+    "paradigm": 16,
+    "purist": 15,
+    "reality": 15,
+    "quantitative": 10,
+    "social": 10,
+    "datum": 10,
+    "value": 8,
+    "position": 7,
+    "provide": 7,
+    "quantitative_qualitative": 7,
+    "specific": 7,
+    "educational": 7
+  },
+  "q34_summary": [
+    {
+      "article": 2,
+      "selected_by": "Concept 5",
+      "lsa_score": 0.4358,
+      "sentence": "Benefits and challenges to reflexivity under three types of researcher's position are discussed and illustrated by means of case examples: (1) reflexivity when researcher shares the experience of study participants, (2) reflexivity when researcher moves from the position of an outsider to the position of an insider in the course of the study, and (3) reflexivity when researcher has no personal familiarity or experience with what is being studied."
+    },
+    {
+      "article": 3,
+      "selected_by": "Concept 3",
+      "lsa_score": 0.4317,
+      "sentence": "While instructional development typically builds on previous research, developmental research attempts to produce the models and principles that guide the design, development, and evaluation processes."
+    },
+    {
+      "article": 4,
+      "selected_by": "Concept 4",
+      "lsa_score": 0.6115,
+      "sentence": "This paper presents findings from that survey, to illustrate the extent and nature of the use of Cronbach's alpha in published reports of science education in highly regarded journals in the field, as well as exploring identified issues of concern by discussing examples from the literature consulted."
+    },
+    {
+      "article": 4,
+      "selected_by": "Concept 8",
+      "lsa_score": 0.5559,
+      "sentence": "Alpha is commonly reported for the development of scales intended to measure attitudes and other affective constructs."
+    },
+    {
+      "article": 4,
+      "selected_by": "Concept 1",
+      "lsa_score": 0.5651,
+      "sentence": "However, the literature also includes reports of the development of tests of student knowledge and understanding that cite Cronbach's alpha as an indicator of instrument quality."
+    },
+    {
+      "article": 4,
+      "selected_by": "S&J score",
+      "lsa_score": 0.5779,
+      "sentence": "It would be suspect if the correlations between these scales were very high, as that would suggest that the sets of items making up the different scales were not measuring different factors."
+    },
+    {
+      "article": 4,
+      "selected_by": "Concept 7",
+      "lsa_score": 0.5035,
+      "sentence": "This instrument was said to measure \"knowledge level of biotechnology and genetics\" and it was reported that \"the reliability (Cronbach's \u03b1) of the knowledge questionnaire was.721\" (p.2930)."
+    },
+    {
+      "article": 5,
+      "selected_by": "S&J score",
+      "lsa_score": 0.6685,
+      "sentence": "Using triangulation such as multiple sources of data contributes to the reliability of results and saturation of data."
+    },
+    {
+      "article": 5,
+      "selected_by": "Concept 6",
+      "lsa_score": 0.5779,
+      "sentence": "However, along with its benefits, a mixed-methods design has a great deal of complexity in the data collection methods - much more than other designs."
+    },
+    {
+      "article": 5,
+      "selected_by": "Concept 2",
+      "lsa_score": 0.5905,
+      "sentence": "Since Denzin initially defined the four types of triangulation in social research, there has been confusion between data triangulation and methodological triangulation."
+    }
+  ],
+  "q34_stats": {
+    "sentences_in": 540,
+    "sentences_out": 10,
+    "terms": 813,
+    "explained_variance_ratio_total": 0.0792
+  },
+  "q34_concepts": {
+    "Concept 1": [
+      "instrument",
+      "report",
+      "scale",
+      "alpha",
+      "reliability",
+      "knowledge",
+      "datum",
+      "triangulation"
+    ],
+    "Concept 2": [
+      "triangulation",
+      "datum",
+      "method",
+      "denzin",
+      "methodological_triangulation",
+      "qualitative",
+      "multiple_source",
+      "mixed_method"
+    ],
+    "Concept 3": [
+      "development",
+      "process",
+      "developmental",
+      "instructional",
+      "design",
+      "evaluation",
+      "knowledge",
+      "design_development"
+    ],
+    "Concept 4": [
+      "science_education",
+      "statistic",
+      "field",
+      "publish",
+      "alpha",
+      "survey",
+      "volume",
+      "development"
+    ],
+    "Concept 5": [
+      "development",
+      "scale",
+      "datum",
+      "reliability",
+      "term",
+      "instructional",
+      "internal_consistency",
+      "triangulation"
+    ],
+    "Concept 6": [
+      "design",
+      "method",
+      "mixed_method",
+      "example",
+      "scale",
+      "case_design",
+      "instructional_system",
+      "item"
+    ],
+    "Concept 7": [
+      "knowledge",
+      "student",
+      "understanding",
+      "design",
+      "instrument",
+      "report",
+      "test",
+      "production"
+    ],
+    "Concept 8": [
+      "reliability",
+      "design",
+      "term",
+      "mixed_method",
+      "result",
+      "alpha",
+      "describe",
+      "qualitative"
+    ]
+  },
+  "q34_tfidf_top_terms": {
+    "2": [
+      "reflexivity",
+      "woman",
+      "immigration",
+      "immigrant",
+      "share_experience",
+      "participant",
+      "monitor",
+      "share",
+      "illustrate",
+      "enhance"
+    ],
+    "3": [
+      "developmental",
+      "instructional",
+      "design_development",
+      "development",
+      "product",
+      "development_process",
+      "instructional_design",
+      "distinction",
+      "type_developmental",
+      "instructional_technology"
+    ],
+    "4": [
+      "scale",
+      "science_education",
+      "statistic",
+      "alpha",
+      "reliability",
+      "acceptable",
+      "value_alpha",
+      "item",
+      "alpha_value",
+      "measure"
+    ],
+    "5": [
+      "denzin",
+      "methodological_triangulation",
+      "case_design",
+      "triangulation",
+      "multiple_source",
+      "social_change",
+      "mixed_method",
+      "mitigate_bias",
+      "datum",
+      "data_triangulation"
+    ]
+  },
+  "q34_doc_similarity": {
+    "2": {
+      "2": 1.0,
+      "3": 0.182,
+      "4": 0.165,
+      "5": 0.244
+    },
+    "3": {
+      "2": 0.182,
+      "3": 1.0,
+      "4": 0.229,
+      "5": 0.197
+    },
+    "4": {
+      "2": 0.165,
+      "3": 0.229,
+      "4": 1.0,
+      "5": 0.212
+    },
+    "5": {
+      "2": 0.244,
+      "3": 0.197,
+      "4": 0.212,
+      "5": 1.0
+    }
+  },
+  "lda_setup": {
+    "passages": 65,
+    "vocab": 583,
+    "chunk_sentences": 10
+  },
+  "coherence": [
+    {
+      "k": 2,
+      "c_v": 0.3947,
+      "c_v_std": 0.0718,
+      "u_mass": -2.5849,
+      "log_perplexity": -5.9659
+    },
+    {
+      "k": 3,
+      "c_v": 0.486,
+      "c_v_std": 0.0183,
+      "u_mass": -2.0169,
+      "log_perplexity": -5.9093
+    },
+    {
+      "k": 4,
+      "c_v": 0.425,
+      "c_v_std": 0.0668,
+      "u_mass": -2.8283,
+      "log_perplexity": -5.9831
+    },
+    {
+      "k": 5,
+      "c_v": 0.4243,
+      "c_v_std": 0.0899,
+      "u_mass": -3.1257,
+      "log_perplexity": -6.0203
+    },
+    {
+      "k": 6,
+      "c_v": 0.4645,
+      "c_v_std": 0.0313,
+      "u_mass": -2.7098,
+      "log_perplexity": -6.0038
+    },
+    {
+      "k": 7,
+      "c_v": 0.4405,
+      "c_v_std": 0.0035,
+      "u_mass": -2.8781,
+      "log_perplexity": -6.0251
+    },
+    {
+      "k": 8,
+      "c_v": 0.4708,
+      "c_v_std": 0.0476,
+      "u_mass": -2.398,
+      "log_perplexity": -6.049
+    },
+    {
+      "k": 9,
+      "c_v": 0.4657,
+      "c_v_std": 0.0416,
+      "u_mass": -2.4335,
+      "log_perplexity": -6.088
+    },
+    {
+      "k": 10,
+      "c_v": 0.4724,
+      "c_v_std": 0.024,
+      "u_mass": -2.6086,
+      "log_perplexity": -6.0821
+    }
+  ],
+  "best_k": 3,
+  "best_seed": 42,
+  "final_model_c_v": 0.4984,
+  "topic_words": {
+    "1": [
+      [
+        "instrument",
+        0.0277
+      ],
+      [
+        "report",
+        0.0257
+      ],
+      [
+        "alpha",
+        0.0244
+      ],
+      [
+        "scale",
+        0.022
+      ],
+      [
+        "reliability",
+        0.0206
+      ],
+      [
+        "item",
+        0.0196
+      ],
+      [
+        "measure",
+        0.0154
+      ],
+      [
+        "test",
+        0.0153
+      ],
+      [
+        "science_education",
+        0.0139
+      ],
+      [
+        "student",
+        0.013
+      ]
+    ],
+    "2": [
+      [
+        "process",
+        0.0234
+      ],
+      [
+        "development",
+        0.0224
+      ],
+      [
+        "developmental",
+        0.0146
+      ],
+      [
+        "reflexivity",
+        0.0132
+      ],
+      [
+        "knowledge",
+        0.0126
+      ],
+      [
+        "design",
+        0.0124
+      ],
+      [
+        "evaluation",
+        0.0099
+      ],
+      [
+        "model",
+        0.0095
+      ],
+      [
+        "instructional",
+        0.009
+      ],
+      [
+        "product",
+        0.0085
+      ]
+    ],
+    "3": [
+      [
+        "datum",
+        0.0351
+      ],
+      [
+        "triangulation",
+        0.0276
+      ],
+      [
+        "method",
+        0.027
+      ],
+      [
+        "qualitative",
+        0.0232
+      ],
+      [
+        "denzin",
+        0.0134
+      ],
+      [
+        "design",
+        0.0117
+      ],
+      [
+        "multiple",
+        0.0111
+      ],
+      [
+        "participant",
+        0.0103
+      ],
+      [
+        "mixed_method",
+        0.0101
+      ],
+      [
+        "point",
+        0.0096
+      ]
+    ]
+  },
+  "topic_coherence_per_topic": [
+    0.7239,
+    0.4464,
+    0.3249
+  ],
+  "doc_topic": [
+    {
+      "article": 1,
+      "Topic 1": 0.023,
+      "Topic 2": 0.607,
+      "Topic 3": 0.37,
+      "dominant_topic": "Topic 2"
+    },
+    {
+      "article": 2,
+      "Topic 1": 0.0,
+      "Topic 2": 0.336,
+      "Topic 3": 0.664,
+      "dominant_topic": "Topic 3"
+    },
+    {
+      "article": 3,
+      "Topic 1": 0.012,
+      "Topic 2": 0.987,
+      "Topic 3": 0.001,
+      "dominant_topic": "Topic 2"
+    },
+    {
+      "article": 4,
+      "Topic 1": 0.999,
+      "Topic 2": 0.0,
+      "Topic 3": 0.0,
+      "dominant_topic": "Topic 1"
+    },
+    {
+      "article": 5,
+      "Topic 1": 0.0,
+      "Topic 2": 0.018,
+      "Topic 3": 0.981,
+      "dominant_topic": "Topic 3"
+    }
+  ],
+  "topic_prevalence": {
+    "Topic 1": 19,
+    "Topic 2": 25,
+    "Topic 3": 21
+  },
+  "pyldavis_salient_terms": [
+    "datum",
+    "triangulation",
+    "alpha",
+    "instrument",
+    "method",
+    "scale",
+    "item",
+    "report",
+    "development",
+    "reliability",
+    "measure",
+    "process",
+    "developmental",
+    "science_education",
+    "denzin",
+    "qualitative",
+    "test",
+    "statistic",
+    "participant",
+    "high"
+  ],
+  "pyldavis_topic_coordinates": [
+    {
+      "topic": 0,
+      "x": 0.0864,
+      "y": 0.1649,
+      "topics": 1,
+      "cluster": 1,
+      "Freq": 33.8069
+    },
+    {
+      "topic": 1,
+      "x": 0.0805,
+      "y": -0.1291,
+      "topics": 2,
+      "cluster": 1,
+      "Freq": 34.0311
+    },
+    {
+      "topic": 2,
+      "x": -0.1669,
+      "y": -0.0358,
+      "topics": 3,
+      "cluster": 1,
+      "Freq": 32.162
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+# Full environment for re-running the notebooks (Python 3.13 used)
+pandas==3.1.1
+numpy==2.5.4
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+spacy==3.8.18
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+gensim==4.4.0
+pyLDAvis==3.4.1
+wordcloud==1.9.6
+networkx==3.7
+joblib==1.6.0
+streamlit==1.67.0
+jupyter
+nbconvert
+playwright==1.65.1
