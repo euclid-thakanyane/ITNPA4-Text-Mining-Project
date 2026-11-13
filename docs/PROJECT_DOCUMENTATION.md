@@ -557,12 +557,12 @@ itnpa4-researchly/
 The repository is committed locally with Git and is ready to push to GitHub with:
 
 ```bash
-git remote add origin https://github.com/<username>/itnpa4-researchly.git
+git remote add origin https://github.com/euclid-thakanyane/ITNPA4-Text-Mining-Project.git
 git branch -M main
 git push -u origin main
 ```
 
-**GitHub repository link:** _<to be added after pushing>_
+**GitHub repository link:** https://github.com/euclid-thakanyane/ITNPA4-Text-Mining-Project
 
 ---
 
